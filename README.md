@@ -54,6 +54,7 @@
 </p>
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com/dmshsl)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kikisimon1206@gmail.com)
+[![Eunwon Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com/dmshsl)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kikisimon1206@gmail.com)
+
 
